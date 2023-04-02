@@ -447,3 +447,12 @@ header.sticky {
 	transform: translateX(10px);
 	color: var(--main-color);
 }
+
+.last-text p {
+	text-align: center;
+	padding: 18px;
+	color: var(--second-color);
+	font-size: 15px;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
